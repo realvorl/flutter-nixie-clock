@@ -5,10 +5,10 @@
 import 'dart:async';
 import 'dart:developer';
 
+import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_clock_helper/model.dart';
-import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
 
 /// A basic digital clock.

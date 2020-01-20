@@ -22,21 +22,20 @@ IMPORTANT: This project is totally based on the starter "digital_clock" provided
 * has 4 layer ( for *future parallax effect* )
 ****
 
-
 === Layering
 
 background plate::
 
     wood texture ( *customizable - in the future* )
 
-image::assets/bgrounds/simplebg.png["background", 320]
+image::assets/bgrounds/simplebg.png["background",320]
 ___
 mid plate::
 
     wood block ( *customizable - in the future* ) +
     holds the nixie tubes in place
 
-image::assets/nixies/sep.png["mid", 320]
+image::assets/nixies/sep.png["mid",320]
 ___
 
 
@@ -46,11 +45,11 @@ main plate::
     holds the the row of nixie tubes
 
 _ _
-image:assets/nixies/002.png["background", 48] _
-image:assets/nixies/003.png["background", 48] _
-image:assets/nixies/blinker.gif["background", 40] _
-image:assets/nixies/005.png["background", 48] _
-image:assets/nixies/009.png["background", 48] _ _
+image:assets/nixies/002.png["background",48] _
+image:assets/nixies/003.png["background",48] _
+image:assets/nixies/blinker.gif["background",40] _
+image:assets/nixies/005.png["background",48] _
+image:assets/nixies/009.png["background",48] _ _
 
 ___
 
@@ -60,7 +59,8 @@ front plate::
     holds part of the wireing +
     and "electronics"
 
-image::assets/nixies/mask.png["", 320]
+image::assets/nixies/mask.png["",320]
 
 == Bringing it all together
-image::final-product.png["all together", 320]
+
+image::final-product.png["all together",320]
