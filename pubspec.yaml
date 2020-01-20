@@ -9,7 +9,7 @@ dependencies:
   flutter:
     sdk: flutter
   flutter_clock_helper:
-    path: flutter_clock_helper
+    path: ../flutter_clock_helper
   cupertino_icons: ^0.1.2
   provider:
   flutter_bloc:
