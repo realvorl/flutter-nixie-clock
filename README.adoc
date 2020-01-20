@@ -1,0 +1,66 @@
+# THE steam punk NIXIE tube digital CLOCK
+
+.Technical
+****
+*specs*
+
+* forces the dark theme
+* forces landscape mode
+* uses transparent images
+* uses gif images
+****
+
+.Technical
+****
+*gimmicks*
+
+* does calculations based on media queries +
+  to calculate the positions of the nixie tubes.
+* has 4 levels ( for future parallax effect )
+****
+
+
+=== Layering
+
+background plate::
+
+    wood texture ( customizable - in the future )
+
+image::assets/bgrounds/simplebg.png["background", 320]
+___
+mid plate::
+
+    wood block ( customizable - in the future ) +
+    holds the nixie tubes in place
+
+image::assets/nixies/sep.png["mid", 320]
+___
+
+
+main plate::
+
+    nixie tubes +
+    holds the the row of nixie tubes
+
+_ _
+image:assets/nixies/002.png["background", 48] _
+image:assets/nixies/003.png["background", 48] _
+image:assets/nixies/blinker.gif["background", 40] _
+image:assets/nixies/005.png["background", 48] _
+image:assets/nixies/009.png["background", 48] _ _
+
+___
+
+front plate::
+
+    wooden mask +
+    holds part of the wireing +
+    and "electronics"
+
+image::assets/nixies/mask.png["", 320]
+
+== And NOW
+== Bringing it all together
+
+
+image::final-product.png["all together", 320]
