@@ -1,5 +1,8 @@
 # THE steam punk NIXIE tube digital CLOCK
 
+IMPORTANT: This project is totally based on the starter "digital_clock" provided by Flutter:
+*https://github.com/flutter/flutter_clock.git*
+
 .Technical
 ****
 *specs*
@@ -15,8 +18,8 @@
 *gimmicks*
 
 * does calculations based on media queries +
-  to calculate the positions of the nixie tubes.
-* has 4 levels ( for future parallax effect )
+  to determine the appropriate positions for the tubes.
+* has 4 layer ( for *future parallax effect* )
 ****
 
 
@@ -24,13 +27,13 @@
 
 background plate::
 
-    wood texture ( customizable - in the future )
+    wood texture ( *customizable - in the future* )
 
 image::assets/bgrounds/simplebg.png["background", 320]
 ___
 mid plate::
 
-    wood block ( customizable - in the future ) +
+    wood block ( *customizable - in the future* ) +
     holds the nixie tubes in place
 
 image::assets/nixies/sep.png["mid", 320]
@@ -59,8 +62,5 @@ front plate::
 
 image::assets/nixies/mask.png["", 320]
 
-== And NOW
 == Bringing it all together
-
-
 image::final-product.png["all together", 320]
