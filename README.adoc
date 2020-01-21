@@ -19,7 +19,7 @@ IMPORTANT: This project is totally based on the starter "digital_clock" provided
 
 * does calculations based on media queries +
   to determine the appropriate positions for the tubes.
-* has 4 layer ( for *future parallax effect* )
+* has 4 layers ( for *future parallax effect* )
 ****
 
 === Layering
